@@ -1,0 +1,18 @@
+Stock price vs revenue dashboard
+
+this project shows historical stock prices and company revenue data of tesla and gamestop using python
+it showcases data collection cleaning and visualization through dashboards using python.
+
+
+Overview :
+
+extract historical stock price
+scrape company revenue data
+clean and process datasets
+visualize stock price vs revenue trends
+
+
+Tools:
+-python
+-pandas
+-matplotlib
